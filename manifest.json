@@ -1,0 +1,23 @@
+{
+  "name": "Industriemeister BQ Meistern",
+  "short_name": "IM Meistern",
+  "description": "Prüfungsvorbereitung für IHK Industriemeister Basisqualifikation – Einmalzahlung, sofort alles freigeschaltet",
+  "start_url": "/logta-industriemeister-meistern/",
+  "display": "standalone",
+  "background_color": "#0a1a24",
+  "theme_color": "#E82020",
+  "orientation": "portrait",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "https://logta-die-bildungswerkstatt.github.io/logta-industriemeister/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://logta-die-bildungswerkstatt.github.io/logta-industriemeister/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
